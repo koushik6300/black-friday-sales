@@ -1,1 +1,1 @@
-# black-friday-sales
+Black Friday is one of the biggest shopping events of the year, occurring the day after Thanksgiving in the United States. This project aims to explore the various aspects of Black Friday sales, including their impact on consumers and retailers, the types of products commonly sold, and the overall trends and strategies involved.
